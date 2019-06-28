@@ -17,8 +17,8 @@ bot.on('message', msg =>{
 
     switch(args[0]){
         case 'fuck':
-            msg.channel.SendMessage('stop it you shit');
-                    
+            msg.channel.sendMessage('can @everyone stop ? plsssss');
+            break;
         case 'clear':
             msg.channel.bulkDelete(1);
             msg.channel.bulkDelete(args[1]);
