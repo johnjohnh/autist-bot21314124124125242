@@ -1,0 +1,15 @@
+{
+  "name": "austusm-bot",
+  "version": "1.0.0",
+  "description": "this is a bot i made for",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tuguldur jon",
+  "license": "ISC",
+  "dependencies": {
+    "discord-bot-github": "^0.3.0",
+    "discord.js": "^11.5.1"
+  }
+}
